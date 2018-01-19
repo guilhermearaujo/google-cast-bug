@@ -6,6 +6,6 @@ target 'Cast' do
   use_frameworks!
 
   # Pods for Cast
-  pod 'google-cast-sdk'
+  pod 'google-cast-sdk', '4.0.2'
 end
 
